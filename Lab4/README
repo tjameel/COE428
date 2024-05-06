@@ -1,0 +1,17 @@
+Hello
+
+Your personalized state machine description for Lab 4 (coe 428) follows:
+
+A F E
+B C F
+C A G
+D B D
+E G H
+F H C
+G D A
+H E D
+
+Your starting state is: E
+
+   Good luck!
+
